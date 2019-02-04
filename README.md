@@ -14,9 +14,9 @@
 ---
 1. В код html вставить div.overlay со всем содержимым.
 2. Подключить sсript.js и style.css.
-3. Элементам, на которые нужно повесить окно добавить атрибуты modal-win и data-img="путь к изображению".
+3. Элементам, на которые нужно повесить окно, добавить атрибуты modal-win и data-img="путь к изображению".
 4. Для анимации в div.modal-wrap добавить класс modal-animation
 5. Стилизовать css по желанию
 
-![screenshot](Heydon_min.jpg)
+![Screenshot](demo.png)
 
